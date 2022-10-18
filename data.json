@@ -13,5 +13,10 @@
     "img": "3.png",
     "onclick": "openPage",
     "href": "https://virgo.net/ledger"
+  },
+  {
+    "img": "4.png",
+    "onclick": "openPage",
+    "href": "https://hyperonchain.com/"
   }
 ]
