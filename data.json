@@ -18,5 +18,10 @@
     "img": "4.png",
     "onclick": "openPage",
     "href": "https://hyperonchain.com/"
+  },
+  {
+    "img": "5.png",
+    "onclick": "openPage",
+    "href": "https://daomaker.com/"
   }
 ]
