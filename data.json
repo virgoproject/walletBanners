@@ -23,5 +23,10 @@
     "img": "5.png",
     "onclick": "openPage",
     "href": "https://daomaker.com/"
+  },
+  {
+    "img": "6.png",
+    "onclick": "openPage",
+    "href": "https://bluebenx.com/"
   }
 ]
