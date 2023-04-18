@@ -28,5 +28,10 @@
     "img": "6.png",
     "onclick": "openPage",
     "href": "https://www.nanomatic.io/"
+  },
+  {
+    "img": "7.png",
+    "onclick": "openPage",
+    "href": "https://tokenlon.im/"
   }
 ]
