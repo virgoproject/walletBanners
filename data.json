@@ -38,5 +38,10 @@
     "img": "8.png",
     "onclick": "openPage",
     "href": "https://www.ambire.com/adex/platform"
+  },
+  {
+    "img": "9.png",
+    "onclick": "openPage",
+    "href": "https://kromatika.finance/"
   }
 ]
