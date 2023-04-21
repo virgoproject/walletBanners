@@ -43,5 +43,10 @@
     "img": "9.png",
     "onclick": "openPage",
     "href": "https://kromatika.finance/"
+  },
+  {
+    "img": "10.png",
+    "onclick": "openPage",
+    "href": "https://www.ambire.com/wallet"
   }
 ]
