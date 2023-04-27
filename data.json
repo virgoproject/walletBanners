@@ -48,5 +48,10 @@
     "img": "10.png",
     "onclick": "openPage",
     "href": "https://www.ambire.com/wallet"
+  },
+  {
+    "img": "11.png",
+    "onclick": "openPage",
+    "href": "https://pkr.io/"
   }
 ]
