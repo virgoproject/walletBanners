@@ -15,46 +15,6 @@
     "href": "https://virgo.net/ledger"
   },
   {
-    "img": "4.png",
-    "onclick": "openPage",
-    "href": "https://hyperonchain.com/"
-  },
-  {
-    "img": "5.png",
-    "onclick": "openPage",
-    "href": "https://daomaker.com/"
-  },
-  {
-    "img": "6.png",
-    "onclick": "openPage",
-    "href": "https://www.nanomatic.io/"
-  },
-  {
-    "img": "7.png",
-    "onclick": "openPage",
-    "href": "https://tokenlon.im/"
-  },
-  {
-    "img": "8.png",
-    "onclick": "openPage",
-    "href": "https://www.ambire.com/adex/platform"
-  },
-  {
-    "img": "9.png",
-    "onclick": "openPage",
-    "href": "https://kromatika.finance/"
-  },
-  {
-    "img": "10.png",
-    "onclick": "openPage",
-    "href": "https://www.ambire.com/wallet"
-  },
-  {
-    "img": "11.png",
-    "onclick": "openPage",
-    "href": "https://pkr.io/"
-  },
-    {
     "img": "12.png",
     "onclick": "openPage",
     "href": "https://virgo.net/"
