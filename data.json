@@ -53,5 +53,10 @@
     "img": "11.png",
     "onclick": "openPage",
     "href": "https://pkr.io/"
+  },
+    {
+    "img": "12.png",
+    "onclick": "openPage",
+    "href": "https://pkr.io/"
   }
 ]
