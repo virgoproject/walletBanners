@@ -1,20 +1,5 @@
 [
   {
-    "img": "1.png",
-    "onclick": "openPage",
-    "href": "https://virgo.net/stake/"
-  },
-  {
-    "img": "2.png",
-    "onclick": "openPage",
-    "href": "https://virgo.net/"
-  },
-  {
-    "img": "3.png",
-    "onclick": "openPage",
-    "href": "https://virgo.net/ledger"
-  },
-  {
     "img": "12.png",
     "onclick": "openPage",
     "href": "https://virgo.net/"
