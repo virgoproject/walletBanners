@@ -24,4 +24,9 @@
     "onclick": "openPage",
     "href": "https://virgo.net/stake/"
   }
+  {
+    "img": "5.png",
+    "onclick": "openPage",
+    "href": "https://virgo.net/"
+  }
 ]
