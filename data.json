@@ -10,12 +10,6 @@
     "href": "https://virgo.net/"
   },
   {
-    "img": "7.png",
-    "onclick": "openPage",
-    "href": "https://virgo.net/",
-    "expiresOn": 1692624223219
-  },
-  {
     "img": "1.png",
     "onclick": "openPage",
     "href": "https://virgo.net/"
