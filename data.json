@@ -1,18 +1,8 @@
 [
   {
-    "img": "4.png",
-    "onclick": "openPage",
-    "href": "https://virgo.net/stake/"
-  },
-  {
-    "img": "5.png",
-    "onclick": "openPage",
-    "href": "https://virgo.net/"
-  },
-  {
     "img": "1.png",
     "onclick": "openPage",
-    "href": "https://virgo.net/"
+    "href": "https://virgo.net/stake/"
   },
   {
     "img": "2.png",
@@ -25,7 +15,7 @@
     "href": "https://virgo.net/"
   },
   {
-    "img": "6.png",
+    "img": "4.png",
     "onclick": "openPage",
     "href": "https://virgo.net/"
   }
