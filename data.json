@@ -23,5 +23,10 @@
     "img": "3.png",
     "onclick": "openPage",
     "href": "https://virgo.net/"
+  },
+  {
+    "img": "6.png",
+    "onclick": "openPage",
+    "href": "https://virgo.net/"
   }
 ]
