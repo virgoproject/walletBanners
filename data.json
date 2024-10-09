@@ -18,5 +18,10 @@
     "img": "4.png",
     "onclick": "openPage",
     "href": "https://linktr.ee/Virgocoin/"
+  },
+  {
+    "img": "5.png",
+    "onclick": "openPage",
+    "href": "https://www.virgo.net/reward-center"
   }
 ]
